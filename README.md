@@ -1,23 +1,23 @@
-# HTML Dersinin İkinci Ödevi
+# Second Assignment for HTML Course
 
-Bu ödevdeki görevimiz, Patika.dev'in HTML dersindeki ilk ödevin ([benim ilk HTML ödevime buradan ulaşabilirsiniz](https://github.com/basaranseyma/HTML_Odev1)) daha fazla özellik eklenerek geliştirilmiş bir versiyonunu hazırlarken öğrendiğimiz yeni bilgileri kullanmak. 
+In this assignment, our task is to create an improved version of the first assignment in Patika.dev's HTML course ([you can access my first HTML assignment here](https://github.com/basaranseyma/HTML_Odev1)) by utilizing the new knowledge we have acquired.
 
-Peki, nedir bu yeni özellikler? 
+So, what are these new features?
 
-* Sayfaya bir adet **resim eklenmesi** ve bu resme bir **açıklama** yazılması
-* Sevilen film, dizi ve kitapları bunlar başlıklar olacak şekilde sıralamak *(Film, dizi, kitap sıralı liste; içerikleri bullet liste olacak şekilde)*
-* Bunları sıralarken film ve dizilerin en az bir tanesine **IMDb linki**, kitapların bir tanesine de **Goodreads linki** yazmak
-* Kurulan yapılarda `block`, `inline` gibi elementler kullanmaya çalışmak
+* Adding one **image** to the page and providing a **caption** for this image
+* Listing favorite movies, TV series, and books as headings *(Movies, TV Series, Books as ordered lists; their contents as unordered lists)*
+* While listing them, adding an **IMDb link** to at least one of the movies or TV series, and a **Goodreads link** to one of the books
+* Trying to use elements like `block`, `inline` 
 
-Projenin görünümü: 
+Project preview: 
 
-![Sayfa açılınca projenin görünümü](image.png)
+![The appearance of the project when the page is opened](images/screenshot.png)
 
-## Kurulum
+## Installation
 
-Bu projeyi çalıştırmak için özel bir kurulum gerekmez. Sadece "index.html" dosyasını herhangi bir web tarayıcısıyla açarak sayfayı görüntüleyebilirsiniz.
+No special installation is required to run this project. You can simply open the "index.html" file with any web browser to view the page.
 
 
-## Lisans
+## Licence
 
-Bu proje, [MIT Lisansı](https://choosealicense.com/licenses/mit/) altında lisanslanmıştır. Daha fazla bilgi için "LICENSE" dosyasını inceleyebilirsiniz.
+This project is licensed under the [MIT Licence](https://choosealicense.com/licenses/mit/.). You can review the "LICENSE" file for more information.
